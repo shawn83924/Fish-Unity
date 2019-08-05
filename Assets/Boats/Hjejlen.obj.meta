@@ -1,0 +1,222 @@
+fileFormatVersion: 2
+guid: cebc49d8b6a844e3a9cb535bb02a94f3
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: baenke
+    100002: Black
+    100004: BlackChimney
+    100006: bovspyd
+    100008: cabin
+    100010: centerfence
+    100012: cockpit
+    100014: Daek
+    100016: Fence
+    100018: fenders
+    100020: flag
+    100022: frontmast
+    100024: galeonfigure
+    100026: //RootNode
+    100028: rearfence
+    100030: rearmast
+    100032: RedBottom
+    100034: Roof
+    100036: skakt
+    100038: splitflag
+    100040: tick18_wheels
+    100042: WheelSideCower
+    100044: YellowChimney
+    400000: baenke
+    400002: Black
+    400004: BlackChimney
+    400006: bovspyd
+    400008: cabin
+    400010: centerfence
+    400012: cockpit
+    400014: Daek
+    400016: Fence
+    400018: fenders
+    400020: flag
+    400022: frontmast
+    400024: galeonfigure
+    400026: //RootNode
+    400028: rearfence
+    400030: rearmast
+    400032: RedBottom
+    400034: Roof
+    400036: skakt
+    400038: splitflag
+    400040: tick18_wheels
+    400042: WheelSideCower
+    400044: YellowChimney
+    2100000: baenkeMat
+    2100002: BlackMat
+    2100004: BlackChimneyMat
+    2100006: bovspydMat
+    2100008: cabinMat
+    2100010: centerfenceMat
+    2100012: cockpitMat
+    2100014: DaekMat
+    2100016: FenceMat
+    2100018: fendersMat
+    2100020: flagMat
+    2100022: frontmastMat
+    2100024: galeonfigureMat
+    2100026: rearfenceMat
+    2100028: rearmastMat
+    2100030: RedBottomMat
+    2100032: RoofMat
+    2100034: skaktMat
+    2100036: splitflagMat
+    2100038: tick18_wheelsMat
+    2100040: WheelSideCowerMat
+    2100042: YellowChimneyMat
+    2300000: baenke
+    2300002: Black
+    2300004: BlackChimney
+    2300006: bovspyd
+    2300008: cabin
+    2300010: centerfence
+    2300012: cockpit
+    2300014: Daek
+    2300016: Fence
+    2300018: fenders
+    2300020: flag
+    2300022: frontmast
+    2300024: galeonfigure
+    2300026: rearfence
+    2300028: rearmast
+    2300030: RedBottom
+    2300032: Roof
+    2300034: skakt
+    2300036: splitflag
+    2300038: tick18_wheels
+    2300040: WheelSideCower
+    2300042: YellowChimney
+    3300000: baenke
+    3300002: Black
+    3300004: BlackChimney
+    3300006: bovspyd
+    3300008: cabin
+    3300010: centerfence
+    3300012: cockpit
+    3300014: Daek
+    3300016: Fence
+    3300018: fenders
+    3300020: flag
+    3300022: frontmast
+    3300024: galeonfigure
+    3300026: rearfence
+    3300028: rearmast
+    3300030: RedBottom
+    3300032: Roof
+    3300034: skakt
+    3300036: splitflag
+    3300038: tick18_wheels
+    3300040: WheelSideCower
+    3300042: YellowChimney
+    4300000: baenke
+    4300002: Black
+    4300004: BlackChimney
+    4300006: bovspyd
+    4300008: cabin
+    4300010: centerfence
+    4300012: cockpit
+    4300014: Daek
+    4300016: Fence
+    4300018: fenders
+    4300020: flag
+    4300022: frontmast
+    4300024: galeonfigure
+    4300026: rearfence
+    4300028: rearmast
+    4300030: RedBottom
+    4300032: Roof
+    4300034: skakt
+    4300036: splitflag
+    4300038: tick18_wheels
+    4300040: WheelSideCower
+    4300042: YellowChimney
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
